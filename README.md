@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm currently working on building a portfolio website<br>Currently learning more about web design<br>Looking forward to work on more data science projects<br>Struggling hard with docker<br>
+# About Me
+I'm currently working on building a portfolio website<br>Currently learning more about web design<br>Looking forward to work on more data science projects<br>Struggling hard with life<br>
 
 
 ## 🌐 Socials:
