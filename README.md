@@ -9,7 +9,7 @@
 - ⚙️ My programming philosophy is to make things stupidly simple
 - 🛋️ My favorite place to code is on my couch
 - 👣 I'm taking steps to become a better mobile developer
-- 😭 I have chronic backpain (at least if feels that way)
+- 😭 I have chronic back pain (at least if feels that way)
 - ☁️ I like clouds and blobs **a lot**
 
 ---
