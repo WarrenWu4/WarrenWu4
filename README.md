@@ -52,4 +52,4 @@
 
 ##### 👇 Number of Stalkers
 
-![](https://komarev.com/ghpvc/?username=WarrenWu4&style=for-the-badge&color=green)
+![](https://komarev.com/ghpvc/?username=WarrenWu4&style=for-the-badge&color=blue)
