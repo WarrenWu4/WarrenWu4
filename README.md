@@ -16,7 +16,7 @@
 
 ### Connect With Me
 
-[![portfolio](https://img.shields.io/badge/portfolio-6D9886?style=for-the-badge&logo=icloud&logoColor=white)](https://warrenwu.vercel.app/) [![github](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WarrenWu4/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/warren-wu4/) [![gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=warrenweiwu04@gmail.com) [![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCiJosbDdPhrP3Rn3hfSBInw/)
+[![portfolio](https://img.shields.io/badge/portfolio-6D9886?style=for-the-badge&logo=icloud&logoColor=white)](https://www.warrenwu.dev/) [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/warren-wu4/) [![gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=warrenweiwu04@gmail.com) [![youtube](https://img.shields.io/badge/youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCiJosbDdPhrP3Rn3hfSBInw/)
 
 ---
 
