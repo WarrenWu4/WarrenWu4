@@ -38,7 +38,7 @@ Big software nerd (🤓). Also has chronic back pain (😭).
 
 ### Miscellaneous
 
-##### 👇 Currently
+##### 👇 Currently Grinding
 
 ![](./proj.svg)
 
