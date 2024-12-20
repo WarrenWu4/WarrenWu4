@@ -1,16 +1,12 @@
 # Hi I'm Warren
 
-**I like building software that helps people. 👍**
+**I'm building software that helps people 👍**
 
 ---
 
 ### About Me
 
-- ⚙️ My programming philosophy is to make things stupidly simple
-- 🛋️ My favorite place to code is on my couch
-- 👣 I'm taking steps to become a better mobile developer
-- 😭 I have chronic back pain (at least it feels that way)
-- ☁️ I like clouds and blobs **a lot**
+Big software nerd (🤓). Also has chronic back pain (😭).
 
 ---
 
@@ -40,9 +36,9 @@
 
 ---
 
-### Other Things
+### Miscellaneous
 
-##### 👇 Current Project:
+##### 👇 Currently
 
 ![](./proj.svg)
 
